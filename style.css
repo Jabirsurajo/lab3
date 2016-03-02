@@ -1,0 +1,77 @@
+body{
+ margin:0;
+ padding:0;
+
+}
+#firstPar{
+  background-color:black;
+ text-align:right;
+  color:white;
+  padding-right:80px;
+
+}
+#page{
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.nav{
+  float:right;
+  margin-right:20px;
+  text-decoration:none;
+
+}
+#header h3{
+width: 100px;
+padding-top: 100px;
+background-color: red;
+margin-top:-80px;
+}
+
+#header  ul li{
+	float:right;
+	text-align:center;
+	line-height:40px;
+	color:#FFFFFF;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:80px;
+}	
+#con1{
+	width:70%;
+	float:left;
+}
+#con2{
+	width:30%;
+	float:left;
+}
+.colum1{
+	float:left;
+	width:32%;
+	padding-right:10px;
+}
+span{
+	/*width:160px;*/
+	background-color:red;
+	color:white;
+	padding:5px;
+	
+}
+#lastfirst{
+	width:32%;
+	float:left;
+	margin-right:30px;
+	
+}
+#lastsec{
+	width:60%;
+	float:left;
+}
+#lastsec span{
+	background-color:gray;
+	
+}
+
+	
+	
